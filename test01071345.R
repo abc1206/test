@@ -1,2 +1,2 @@
 testPlatformEquivalence()
-shew
+skew
